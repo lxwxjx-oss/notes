@@ -1,0 +1,9 @@
+title: lxwxjx notes
+description: Technical notes, engineering comparisons, and research documents.
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+plugins:
+  - jekyll-relative-links
